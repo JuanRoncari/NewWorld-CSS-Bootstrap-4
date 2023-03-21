@@ -1,0 +1,72 @@
+.container-primario{
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+    padding-top: 180px;
+    color: #DCDCDC;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container-secundario{
+    width: 500px;
+    height: 400px;
+    margin-left: 100px;
+    color: #DCDCDC;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container-terceiro{
+    width: 500px;
+    height: 400px;
+    margin-left: 700px;
+    color: #DCDCDC;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.container-quarteto{
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+    color: #DCDCDC;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container-final{
+    position: relative;
+    bottom: 80px;
+    right: 400px;
+}
+
+
+.aet{
+    margin-left: 100px;
+}
+
+.box-shadow{
+    box-shadow: rgba(0, 0, 0, .2);
+}
+
+.moldura-final:hover{
+    background: gold;
+    transition: 0.3s;
+}
+
+.pos-imagem{
+    position: relative;
+    bottom: 1450px;
+    right: 420px;
+    border-radius: 4px;
+}
+
+.pos-imagem1{
+    position: relative;
+    bottom: 1450px;
+    right: 280px;
+}
+
+.pos-imagem2{
+    position: relative;
+    bottom: 1450px;
+    right: 355px;
+}

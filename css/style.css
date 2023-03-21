@@ -1,0 +1,70 @@
+
+.fundo{
+    margin: 100px auto;
+    width: 500px;
+}
+
+.h2-disponivel{
+    color: 	#DCDCDC;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.fundo1{
+    display: flex;
+    align-items: center;
+}
+
+.container-principal{
+    background: url(../imagen/NW_Stronger_Together.gif) no-repeat center;
+    background-size: 155%;
+    max-width: 1450px;
+    height: 680px;
+    border: 1px solid;
+}
+
+.container-principal2{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.margin-compre{
+    margin-left: 100px;
+}
+
+
+.color-text{
+    color: #696969;
+}
+
+
+.card-hover:hover{
+    transition: 0.3s;
+    background:#FFD700;
+    cursor: pointer;
+}
+
+.font-secundaria{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.color-primaria{
+    color: #000000;
+}
+
+.container-final{
+    width: 500px;
+    padding-top: 60px;
+    margin-left:849px;
+}
+
+.logo-final{
+    width: 100px;
+    padding: 0px 10px;
+}
+
+.container-final2{
+    display: flex;
+    justify-content: space-between;
+}
+
